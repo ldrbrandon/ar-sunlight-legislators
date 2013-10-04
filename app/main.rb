@@ -5,3 +5,6 @@ require_relative './models/legislator'
 
 ### RUN ACTIVE RECORD QUERIES HERE ###
 
+# Legislator.list_reps_and_sens_for("PA")
+
+Legislator.gender_percentage("F")
