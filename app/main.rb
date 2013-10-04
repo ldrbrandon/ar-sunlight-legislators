@@ -1,9 +1,7 @@
 require_relative '../db/config'
-require_relative './models/state'
-require_relative './models/party'
 require_relative './models/legislator'
 
-
-
+# Legislator.populate_senators_and_representatives
 
 ### RUN ACTIVE RECORD QUERIES HERE ###
+
